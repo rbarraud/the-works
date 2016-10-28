@@ -1,0 +1,90 @@
+[submodule "cepl"]
+	path = cepl
+	url = git@github.com:cbaggers/cepl.git
+[submodule "varjo"]
+	path = varjo
+	url = git@github.com:cbaggers/varjo.git
+[submodule "cepl.camera"]
+	path = cepl.camera
+	url = git@github.com:cbaggers/cepl.camera.git
+[submodule "cepl.devil"]
+	path = cepl.devil
+	url = git@github.com:cbaggers/cepl.devil.git
+[submodule "cepl.examples"]
+	path = cepl.examples
+	url = git@github.com:cbaggers/cepl.examples.git
+[submodule "cepl.sdl2"]
+	path = cepl.sdl2
+	url = git@github.com:cbaggers/cepl.sdl2.git
+[submodule "cepl.sdl2-image"]
+	path = cepl.sdl2-image
+	url = git@github.com:cbaggers/cepl.sdl2-image.git
+[submodule "cepl.skitter"]
+	path = cepl.skitter
+	url = git@github.com:cbaggers/cepl.skitter.git
+[submodule "cl-soil"]
+	path = cl-soil
+	url = git@github.com:cbaggers/cl-soil.git
+[submodule "dendrite"]
+	path = dendrite
+	url = git@github.com:cbaggers/dendrite.git
+[submodule "dirt"]
+	path = dirt
+	url = git@github.com:cbaggers/dirt.git
+[submodule "filmic-tone-mapping-operators"]
+	path = filmic-tone-mapping-operators
+	url = git@github.com:cbaggers/filmic-tone-mapping-operators.git
+[submodule "fn"]
+	path = fn
+	url = git@github.com:cbaggers/fn.git
+[submodule "glsl-spec"]
+	path = glsl-spec
+	url = git@github.com:cbaggers/glsl-spec.git
+[submodule "issac"]
+	path = issac
+	url = git@github.com:cbaggers/issac.git
+[submodule "lark"]
+	path = lark
+	url = git@github.com:cbaggers/lark.git
+[submodule "livesupport"]
+	path = livesupport
+	url = git@github.com:cbaggers/livesupport.git
+[submodule "nineveh"]
+	path = nineveh
+	url = git@github.com:cbaggers/nineveh.git
+[submodule "pathology"]
+	path = pathology
+	url = git@github.com:cbaggers/pathology.git
+[submodule "pile"]
+	path = pile
+	url = git@github.com:cbaggers/pile.git
+[submodule "raw-bindings-newton"]
+	path = raw-bindings-newton
+	url = git@github.com:cbaggers/raw-bindings-newton.git
+[submodule "raw-bindings-nuklear"]
+	path = raw-bindings-nuklear
+	url = git@github.com:cbaggers/raw-bindings-nuklear.git
+[submodule "rtg-math"]
+	path = rtg-math
+	url = git@github.com:cbaggers/rtg-math.git
+[submodule "shared-library-wrangler"]
+	path = shared-library-wrangler
+	url = git@github.com:cbaggers/shared-library-wrangler.git
+[submodule "shipshape"]
+	path = shipshape
+	url = git@github.com:cbaggers/shipshape.git
+[submodule "skitter"]
+	path = skitter
+	url = git@github.com:cbaggers/skitter.git
+[submodule "structy-defclass"]
+	path = structy-defclass
+	url = git@github.com:cbaggers/structy-defclass.git
+[submodule "tamei"]
+	path = tamei
+	url = git@github.com:cbaggers/tamei.git
+[submodule "temporal-functions"]
+	path = temporal-functions
+	url = git@github.com:cbaggers/temporal-functions.git
+[submodule "tiling-viewport-manager"]
+	path = tiling-viewport-manager
+	url = git@github.com:cbaggers/tiling-viewport-manager.git
