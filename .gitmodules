@@ -1,6 +1,9 @@
 [submodule "cepl"]
 	path = cepl
 	url = git@github.com:cbaggers/cepl.git
+[submodule "cepl.tests"]
+	path = cepl.tests
+	url = git@github.com:cbaggers/cepl.tests.git
 [submodule "varjo"]
 	path = varjo
 	url = git@github.com:cbaggers/varjo.git
