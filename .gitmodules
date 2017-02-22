@@ -91,3 +91,6 @@
 [submodule "tiling-viewport-manager"]
 	path = tiling-viewport-manager
 	url = git@github.com:cbaggers/tiling-viewport-manager.git
+[submodule "grovel-locally"]
+	path = grovel-locally
+	url = git@github.com:cbaggers/grovel-locally.git
