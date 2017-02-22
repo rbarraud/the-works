@@ -94,3 +94,6 @@
 [submodule "grovel-locally"]
 	path = grovel-locally
 	url = git@github.com:cbaggers/grovel-locally.git
+[submodule "with-cached-reader-conditionals"]
+	path = with-cached-reader-conditionals
+	url = git@github.com:cbaggers/with-cached-reader-conditionals.git
