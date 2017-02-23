@@ -97,3 +97,6 @@
 [submodule "with-cached-reader-conditionals"]
 	path = with-cached-reader-conditionals
 	url = git@github.com:cbaggers/with-cached-reader-conditionals.git
+[submodule "cepl.sdl2-ttf"]
+	path = cepl.sdl2-ttf
+	url = git@github.com:cbaggers/cepl.sdl2-ttf.git
