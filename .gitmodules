@@ -100,3 +100,6 @@
 [submodule "cepl.sdl2-ttf"]
 	path = cepl.sdl2-ttf
 	url = git@github.com:cbaggers/cepl.sdl2-ttf.git
+[submodule "cepl.glop"]
+	path = cepl.glop
+	url = git@github.com:cbaggers/cepl.glop.git
