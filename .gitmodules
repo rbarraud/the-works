@@ -34,9 +34,6 @@
 [submodule "dirt"]
 	path = dirt
 	url = git@github.com:cbaggers/dirt.git
-[submodule "filmic-tone-mapping-operators"]
-	path = filmic-tone-mapping-operators
-	url = git@github.com:cbaggers/filmic-tone-mapping-operators.git
 [submodule "fn"]
 	path = fn
 	url = git@github.com:cbaggers/fn.git
