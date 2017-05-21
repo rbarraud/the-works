@@ -100,3 +100,6 @@
 [submodule "cepl.glop"]
 	path = cepl.glop
 	url = git@github.com:cbaggers/cepl.glop.git
+[submodule "cepl.spaces"]
+	path = cepl.spaces
+	url = git@github.com:cbaggers/cepl.spaces.git
