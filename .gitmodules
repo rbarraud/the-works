@@ -103,3 +103,6 @@
 [submodule "cepl.spaces"]
 	path = cepl.spaces
 	url = git@github.com:cbaggers/cepl.spaces.git
+[submodule "cl-opengl"]
+	path = cl-opengl
+	url = git@github.com:cbaggers/cl-opengl.git
