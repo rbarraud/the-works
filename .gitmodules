@@ -112,3 +112,6 @@
 [submodule "cl-sdl2"]
 	path = cl-sdl2
 	url = git@github.com:lispgames/cl-sdl2.git
+[submodule "cepl.perf"]
+	path = cepl.perf
+	url = git@github.com:cbaggers/cepl.perf.git
