@@ -115,3 +115,6 @@
 [submodule "cepl.perf"]
 	path = cepl.perf
 	url = git@github.com:cbaggers/cepl.perf.git
+[submodule "glsl-toolkit"]
+	path = glsl-toolkit
+	url = git@github.com:Shirakumo/glsl-toolkit.git
