@@ -4,6 +4,7 @@
     (asdf:load-system :rtg-math :force t :verbose t)
     (asdf:load-system :glsl-spec :force t :verbose t)
     (asdf:load-system :varjo :force t :verbose t)
+    (asdf:load-system :rtg-math.vari :force t :verbose t)
     (asdf:load-system :cepl :force t :verbose t)
     (asdf:load-system :dendrite :force t :verbose t)
     (asdf:load-system :livesupport :force t :verbose t)
