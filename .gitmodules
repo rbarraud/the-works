@@ -106,3 +106,15 @@
 [submodule "cl-opengl"]
 	path = cl-opengl
 	url = git@github.com:cbaggers/cl-opengl.git
+[submodule "cffi"]
+	path = cffi
+	url = git@github.com:cffi/cffi.git
+[submodule "cl-sdl2"]
+	path = cl-sdl2
+	url = git@github.com:lispgames/cl-sdl2.git
+[submodule "cepl.perf"]
+	path = cepl.perf
+	url = git@github.com:cbaggers/cepl.perf.git
+[submodule "glsl-toolkit"]
+	path = glsl-toolkit
+	url = git@github.com:Shirakumo/glsl-toolkit.git
